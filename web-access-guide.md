@@ -11,7 +11,7 @@ For the application to be successfully deployed on WEB, I have **separately** ho
 ## 1. Tests using API Clients
 This is **URL** where the endpoint dedicated for sending messages is hosted, you can copy and paste it into your **API Client**.
 ```env
-https://rabbitmq-application-image.onrender.com/api/messages
+https://rabbitmq-application-docker-v1.onrender.com/messages
 ```
 
 Once you have pasted the URL, to send a message simply apply a POST method with the following JSON body:  
