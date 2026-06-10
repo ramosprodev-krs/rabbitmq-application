@@ -1,4 +1,14 @@
-# <img src="https://images.icon-icons.com/2699/PNG/512/rabbitmq_logo_icon_170810.png" width="40" height="40"> rabbitmq-application
+<div align="center">
+  
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://images.icon-icons.com/2699/PNG/512/rabbitmq_logo_icon_170810.png" width=180> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <br> <h1 align="center">rabbitmq-application</h1> <br> |
+| :--- | :--- |
+
+**A demonstration of RabbitMQ structure and features.**
+
+</div>  
+
+---
+
 **Project Start Date: October 22, 2025  
 Completion Date: November 07, 2025**
 
